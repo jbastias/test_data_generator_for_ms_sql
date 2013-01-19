@@ -3,10 +3,9 @@ test_data_generator_for_ms_sql
 
 using c# we create test data from an existing database using a linked server and the openrowset tsql command
 
-See the file below as a starting point for app configuraton: 
-
 test_data_generator_for_ms_sql/App.Config
 --------------------------
+See the file below as a starting point for app configuraton
 
 ```xml
 <?xml version="1.0" encoding="utf-8" ?>
